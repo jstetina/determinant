@@ -1,1 +1,1 @@
-Find matrix determinant recursively
+Find matrix determinant recursively using Laplace's expansion
